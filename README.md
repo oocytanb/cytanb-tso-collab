@@ -32,7 +32,7 @@
  [depot_tools/gclient](https://dev.chromium.org/developers/how-tos/depottools) を採用しています。
 
 - [depot_tools のインストール方法](https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/depot_tools_tutorial.html) に従って、導入します。
-    1. Windows 環境では、[depot_tools.zip](https://storage.googleapis.com/chrome-infra/depot_tools.zip) をダウンロード・展開し、`PATH` 環境変数に追加します。
+    1. Windows 環境では、[depot_tools.zip](https://storage.googleapis.com/chrome-infra/depot_tools.zip) をダウンロード・展開し、`PATH` 環境変数の優先順位が高い位置に追加します。
 
     1. コマンドプロンプト (cmd) から、初回の `gclient` コマンドを実行し、アップデートを行います。
 
