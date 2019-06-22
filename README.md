@@ -8,7 +8,7 @@
 
 ## Softwares / Assets
 
-- [Unity](https://unity3d.com/) 2018.2
+- [Unity](https://unity3d.com/) 2018.4
 - [VCI](https://github.com/virtual-cast/VCI)
 
 ## プロジェクトの構成
@@ -38,7 +38,7 @@
 
     1. 作業ディレクトリで `gclient config` コマンドを実行し `.gclient` ファイルを作成します。
         ```
-        gclient config --name=cytanb-tso-collab "https://github.com/oocytanb/cytanb-tso-collab.git@2018.2"
+        gclient config --name=cytanb-tso-collab "https://github.com/oocytanb/cytanb-tso-collab.git@2018.4"
         ```
     
     1. リポジトリからソースコードを取得します。
