@@ -13,7 +13,7 @@ deps = {
     Var('master_branch'),
 
   'Assets/uni-asset-vci': Var('cytanb_git') + '/uni-asset-vci.git' + '@' +
-    Var('target_branch'),
+    Var('master_branch'),
 
   'Assets/oO-vci-pack': Var('cytanb_git') + '/oO-vci-pack.git' + '@' +
     Var('target_branch'),
