@@ -22,11 +22,7 @@
 
 - [oO-vci-pack](https://github.com/oocytanb/oO-vci-pack) : VCI のサンプル
 
-- [cytanb-vrm-works](https://github.com/oocytanb/cytanb-vrm-works) : [VRM](https://github.com/vrm-c/UniVRM) を制作するためのプロジェクト
-
 ## Git
-
-- [Git Large File Storage (LFS)](https://git-lfs.github.com/) を導入していますので、対応する Git クライアントが必要です。
 
 - 独立したリポジトリとして公開されているアセットを、まとめて扱うために、
  [depot_tools/gclient](https://dev.chromium.org/developers/how-tos/depottools) を採用しています。

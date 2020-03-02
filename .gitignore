@@ -70,5 +70,8 @@ ehthumbs.db
 *.blend1
 *.blend1.meta
 
+# Visual Studio Code
+.vscode/*
+
 # Ignore external assets
 /Assets/*
