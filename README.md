@@ -34,7 +34,7 @@
 
     1. 作業ディレクトリで `gclient config` コマンドを実行し `.gclient` ファイルを作成します。
         ```
-        gclient config --name=cytanb-tso-collab "https://github.com/oocytanb/cytanb-tso-collab.git@2018.4"
+        gclient config --name=cytanb-tso-collab "https://github.com/oocytanb/cytanb-tso-collab.git@2019.4"
         ```
     
     1. リポジトリからソースコードを取得します。
